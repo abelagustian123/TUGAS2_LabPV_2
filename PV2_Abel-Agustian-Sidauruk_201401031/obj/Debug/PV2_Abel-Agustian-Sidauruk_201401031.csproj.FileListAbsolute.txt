@@ -1,0 +1,7 @@
+D:\Sem 4\Pemrograman Visual\Lab\Tugas2\PV2_Abel-Agustian-Sidauruk_201401031\PV2_Abel-Agustian-Sidauruk_201401031\obj\Debug\PV2_Abel-Agustian-Sidauruk_201401031.csprojResolveAssemblyReference.cache
+D:\Sem 4\Pemrograman Visual\Lab\Tugas2\PV2_Abel-Agustian-Sidauruk_201401031\PV2_Abel-Agustian-Sidauruk_201401031\obj\Debug\PV2_Abel_Agustian_Sidauruk_201401031.MainForm.resources
+D:\Sem 4\Pemrograman Visual\Lab\Tugas2\PV2_Abel-Agustian-Sidauruk_201401031\PV2_Abel-Agustian-Sidauruk_201401031\obj\Debug\PV2_Abel-Agustian-Sidauruk_201401031.csproj.GenerateResource.Cache
+D:\Sem 4\Pemrograman Visual\Lab\Tugas2\PV2_Abel-Agustian-Sidauruk_201401031\PV2_Abel-Agustian-Sidauruk_201401031\bin\Debug\PV2_Abel-Agustian-Sidauruk_201401031.exe
+D:\Sem 4\Pemrograman Visual\Lab\Tugas2\PV2_Abel-Agustian-Sidauruk_201401031\PV2_Abel-Agustian-Sidauruk_201401031\bin\Debug\PV2_Abel-Agustian-Sidauruk_201401031.pdb
+D:\Sem 4\Pemrograman Visual\Lab\Tugas2\PV2_Abel-Agustian-Sidauruk_201401031\PV2_Abel-Agustian-Sidauruk_201401031\obj\Debug\PV2_Abel-Agustian-Sidauruk_201401031.exe
+D:\Sem 4\Pemrograman Visual\Lab\Tugas2\PV2_Abel-Agustian-Sidauruk_201401031\PV2_Abel-Agustian-Sidauruk_201401031\obj\Debug\PV2_Abel-Agustian-Sidauruk_201401031.pdb
